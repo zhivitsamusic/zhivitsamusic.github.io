@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zhivitsa.github.io/sitemap.xml
+Sitemap: https://zhivitsamusic.github.io/sitemap.xml
